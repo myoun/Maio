@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "maio",
+  "version": "${version}",
+  "name": "Myoung2's All In One Plugin",
+  "description": "",
+  "authors": [],
+  "contact": {},
+  "license": "LGPL-3.0",
+  "icon": "assets/maio/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "kr.myoung2.maio.Maio"
+    ],
+    "client": [
+      "kr.myoung2.maio.client.MaioClient"
+    ]
+  },
+  "mixins": [
+    "maio.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.11.3",
+    "fabric": "*",
+    "minecraft": "1.16.5"
+  }
+}

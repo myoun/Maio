@@ -1,0 +1,12 @@
+{
+  "maio.button.reloadsession" : "Reload Session",
+  "maio.button.gamma" : "Gamma",
+  "maio.screen.login" : "Login Screen",
+  "maio.screen.login.email" : "Email",
+  "maio.screen.login.password" : "Password",
+  "maio.screen.login.button" : "Login",
+  "maio.screen.login.button.cancel" : "Cancel",
+  "maio.screen.login.field.email" : "Email",
+  "maio.screen.login.field.password" : "Password",
+  "maio.button.killgame": "Exit Minecraft"
+}

@@ -1,0 +1,23 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "kr.myoung2.maio.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+
+  ],
+  "client": [
+    "MinecraftClientAccess",
+    "MinecraftClientMixin",
+    "RealmsMainScreenMixin",
+    "TitleScreenMixin",
+    "VideoOptionScreenMixin",
+    "GameMenuScreenMixin",
+    "InGameHudMixin",
+    "MinecraftClientAccessorMixin"
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
