@@ -14,7 +14,7 @@
     "VideoOptionScreenMixin",
     "GameMenuScreenMixin",
     "InGameHudMixin",
-    "MinecraftClientAccessorMixin"
+    "ZoomMixin"
 
   ],
   "injectors": {
